@@ -1,0 +1,15 @@
+{
+    "name": "oumha/creez_votre_premier_blog_en_php",
+    "autoload": {
+        "psr-4": {
+            "Oumha\\CreezVotrePremierBlogEnPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saliha Ichou",
+            "email": "oum.hanane@gmail.com"
+        }
+    ],
+    "require": {}
+}
